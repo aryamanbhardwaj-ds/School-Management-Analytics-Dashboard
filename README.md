@@ -144,6 +144,4 @@ Aryaman Bhardwaj
 
 Data Analyst | Power BI Developer | Business Intelligence Enthusiast
 
-LinkedIn: [Add LinkedIn URL]
-GitHub: [Add GitHub URL]
 
