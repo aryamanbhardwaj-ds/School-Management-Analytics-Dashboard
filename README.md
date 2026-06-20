@@ -1,4 +1,3 @@
-# school-management-analytics-dashboard
 # 🎓 School Management Analytics Dashboard | Power BI
 
 ## 📌 Project Overview
